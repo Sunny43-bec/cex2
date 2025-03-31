@@ -1,0 +1,1 @@
+It does not modify your working directory or merge changes automatically
