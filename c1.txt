@@ -1,0 +1,1 @@
+This command fetches the latest changes from the origin remote but does not merge them.
